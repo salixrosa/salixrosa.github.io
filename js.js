@@ -28,9 +28,9 @@ var game = function() {
 		},
 		operatorsettings: {
 			"+": true,
-			"-": true,
-			"x": true,
-			"/": true
+			"-": false,
+			"x": false,
+			"/": false
 		},
 		alloperators: ["+","-","x","/"],
 		chosenoperators: [],
