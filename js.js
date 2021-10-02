@@ -20,7 +20,7 @@ var game = function() {
 		and that aid the user in changing settings. */
 
 		ranges: {
-			addition: 100,
+			addition: 15,
 			subtraction: 100,
 			timesx: [2,3,4,5,6,7,8,9],
 			timesy: [2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],
